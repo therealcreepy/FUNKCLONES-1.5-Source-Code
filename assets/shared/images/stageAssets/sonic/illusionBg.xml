@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="illusionBg.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="illusionBG0000" x="0" y="0" width="1929" height="1191" frameX="0" frameY="-1" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0001" x="0" y="0" width="1929" height="1191" frameX="0" frameY="-1" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0002" x="1929" y="0" width="1912" height="1191" frameX="-9" frameY="-1" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0003" x="1929" y="0" width="1912" height="1191" frameX="-9" frameY="-1" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0004" x="0" y="1191" width="1903" height="1191" frameX="-14" frameY="-1" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0005" x="0" y="1191" width="1903" height="1191" frameX="-14" frameY="-1" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0006" x="1903" y="1191" width="1897" height="1192" frameX="-17" frameY="0" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0007" x="1903" y="1191" width="1897" height="1192" frameX="-17" frameY="0" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0008" x="0" y="2383" width="1897" height="1192" frameX="-17" frameY="0" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0009" x="0" y="2383" width="1897" height="1192" frameX="-17" frameY="0" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0010" x="0" y="2383" width="1897" height="1192" frameX="-17" frameY="0" frameWidth="1929" frameHeight="1192"/>
+	<SubTexture name="illusionBG0011" x="0" y="2383" width="1897" height="1192" frameX="-17" frameY="0" frameWidth="1929" frameHeight="1192"/>
+</TextureAtlas>

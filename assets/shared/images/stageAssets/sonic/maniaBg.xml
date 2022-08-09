@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maniaBg.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maniaBG0000" x="0" y="0" width="1564" height="1154" frameX="0" frameY="-1" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0001" x="0" y="0" width="1564" height="1154" frameX="0" frameY="-1" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0002" x="1564" y="0" width="1546" height="1155" frameX="-9" frameY="-1" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0003" x="1564" y="0" width="1546" height="1155" frameX="-9" frameY="-1" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0004" x="0" y="1155" width="1537" height="1155" frameX="-14" frameY="-1" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0005" x="0" y="1155" width="1537" height="1155" frameX="-14" frameY="-1" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0006" x="1537" y="1155" width="1529" height="1156" frameX="-17" frameY="0" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0007" x="1537" y="1155" width="1529" height="1156" frameX="-17" frameY="0" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0008" x="0" y="2311" width="1529" height="1156" frameX="-17" frameY="0" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0009" x="0" y="2311" width="1529" height="1156" frameX="-17" frameY="0" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0010" x="0" y="2311" width="1529" height="1156" frameX="-17" frameY="0" frameWidth="1564" frameHeight="1156"/>
+	<SubTexture name="maniaBG0011" x="0" y="2311" width="1529" height="1156" frameX="-17" frameY="0" frameWidth="1564" frameHeight="1156"/>
+</TextureAtlas>

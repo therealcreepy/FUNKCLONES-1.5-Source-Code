@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleBoyfriend.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFBop0000" x="0" y="0" width="1106" height="874"/>
+	<SubTexture name="BFBop0001" x="0" y="0" width="1106" height="874"/>
+	<SubTexture name="BFBop0002" x="1106" y="0" width="1106" height="874"/>
+	<SubTexture name="BFBop0003" x="1106" y="0" width="1106" height="874"/>
+	<SubTexture name="BFBop0004" x="2212" y="0" width="1106" height="874"/>
+	<SubTexture name="BFBop0005" x="2212" y="0" width="1106" height="874"/>
+	<SubTexture name="BFBop0006" x="0" y="874" width="1106" height="874"/>
+	<SubTexture name="BFBop0007" x="0" y="874" width="1106" height="874"/>
+	<SubTexture name="BFBop0008" x="1106" y="874" width="1106" height="874"/>
+	<SubTexture name="BFBop0009" x="1106" y="874" width="1106" height="874"/>
+	<SubTexture name="BFBop0010" x="1106" y="874" width="1106" height="874"/>
+	<SubTexture name="BFBop0011" x="1106" y="874" width="1106" height="874"/>
+	<SubTexture name="BFBop0012" x="1106" y="874" width="1106" height="874"/>
+	<SubTexture name="BFBop0013" x="1106" y="874" width="1106" height="874"/>
+</TextureAtlas>

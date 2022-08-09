@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="classic_sonic.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="classic down0000" x="0" y="0" width="556" height="750"/>
+	<SubTexture name="classic down0001" x="0" y="0" width="556" height="750"/>
+	<SubTexture name="classic down0002" x="556" y="0" width="556" height="750"/>
+	<SubTexture name="classic down0003" x="556" y="0" width="556" height="750"/>
+	<SubTexture name="classic idle0000" x="1112" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0001" x="1112" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0002" x="1515" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0003" x="1515" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0004" x="1918" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0005" x="1918" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0006" x="2321" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0007" x="2321" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0008" x="2724" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0009" x="2724" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0010" x="2724" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0011" x="2724" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0012" x="2724" y="0" width="403" height="672"/>
+	<SubTexture name="classic idle0013" x="2724" y="0" width="403" height="672"/>
+	<SubTexture name="classic left0000" x="3127" y="0" width="574" height="741"/>
+	<SubTexture name="classic left0001" x="3127" y="0" width="574" height="741"/>
+	<SubTexture name="classic left0002" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0003" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0004" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0005" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0006" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0007" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0008" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0009" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0010" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0011" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0012" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic left0013" x="0" y="750" width="574" height="741"/>
+	<SubTexture name="classic right0000" x="574" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0001" x="574" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0002" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0003" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0004" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0005" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0006" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0007" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0008" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0009" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0010" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0011" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0012" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic right0013" x="1110" y="750" width="536" height="814"/>
+	<SubTexture name="classic up0000" x="1646" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0001" x="1646" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0002" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0003" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0004" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0005" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0006" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0007" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0008" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0009" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0010" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0011" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0012" x="2238" y="750" width="592" height="842"/>
+	<SubTexture name="classic up0013" x="2238" y="750" width="592" height="842"/>
+</TextureAtlas>

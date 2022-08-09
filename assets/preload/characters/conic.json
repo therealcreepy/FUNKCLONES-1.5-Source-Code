@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CS-LeftSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CS-DownSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				52
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CS-UpSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CS-RightSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CS-IdleDance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "alright",
+			"loop": false,
+			"name": "alright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/conic_ass",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "conic",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		142,
+		226
+	],
+	"camera_position": [
+		-50,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

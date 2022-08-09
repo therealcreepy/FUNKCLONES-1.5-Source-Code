@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="conicJumpscare.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jumpscare0000" x="0" y="0" width="693" height="270" frameX="-263" frameY="-450" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0001" x="0" y="0" width="693" height="270" frameX="-263" frameY="-450" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0002" x="693" y="0" width="901" height="720" frameX="-167" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0003" x="693" y="0" width="901" height="720" frameX="-167" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0004" x="1594" y="0" width="828" height="720" frameX="-205" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0005" x="1594" y="0" width="828" height="720" frameX="-205" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0006" x="2422" y="0" width="814" height="720" frameX="-209" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0007" x="2422" y="0" width="814" height="720" frameX="-209" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0008" x="0" y="720" width="932" height="720" frameX="-145" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0009" x="0" y="720" width="932" height="720" frameX="-145" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Jumpscare0010" x="932" y="720" width="1280" height="720"/>
+	<SubTexture name="Jumpscare0011" x="932" y="720" width="1280" height="720"/>
+	<SubTexture name="Jumpscare0012" x="2212" y="720" width="1280" height="720"/>
+	<SubTexture name="Jumpscare0013" x="2212" y="720" width="1280" height="720"/>
+	<SubTexture name="Jumpscare0014" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="Jumpscare0015" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="Jumpscare0016" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="Jumpscare0017" x="1280" y="1440" width="1280" height="720"/>
+</TextureAtlas>

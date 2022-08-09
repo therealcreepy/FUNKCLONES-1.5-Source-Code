@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "arcade",
+		"player1": "bf",
+		"player2": "conic",
+		"player3": null,
+		"events": [
+			[
+				7680,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.03"
+					]
+				]
+			],
+			[
+				8640,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.03"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.03"
+					]
+				]
+			],
+			[
+				10560,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.03"
+					]
+				]
+			],
+			[
+				11520,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.03"
+					]
+				]
+			],
+			[
+				12480,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.03"
+					]
+				]
+			],
+			[
+				13440,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.03"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Play Animation",
+						"alright",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Nightmare"
+	}
+}

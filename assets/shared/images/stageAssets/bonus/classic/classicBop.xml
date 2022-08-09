@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="classicBop.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="classicBop0000" x="0" y="0" width="1613" height="746"/>
+	<SubTexture name="classicBop0001" x="0" y="0" width="1613" height="746"/>
+	<SubTexture name="classicBop0002" x="1613" y="0" width="1613" height="746"/>
+	<SubTexture name="classicBop0003" x="1613" y="0" width="1613" height="746"/>
+	<SubTexture name="classicBop0004" x="0" y="746" width="1613" height="746"/>
+	<SubTexture name="classicBop0005" x="0" y="746" width="1613" height="746"/>
+	<SubTexture name="classicBop0006" x="1613" y="746" width="1613" height="746"/>
+	<SubTexture name="classicBop0007" x="1613" y="746" width="1613" height="746"/>
+	<SubTexture name="classicBop0008" x="0" y="1492" width="1613" height="746"/>
+	<SubTexture name="classicBop0009" x="0" y="1492" width="1613" height="746"/>
+	<SubTexture name="classicBop0010" x="0" y="1492" width="1613" height="746"/>
+	<SubTexture name="classicBop0011" x="0" y="1492" width="1613" height="746"/>
+	<SubTexture name="classicBop0012" x="0" y="1492" width="1613" height="746"/>
+	<SubTexture name="classicBop0013" x="0" y="1492" width="1613" height="746"/>
+</TextureAtlas>

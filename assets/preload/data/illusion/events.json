@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "arcade",
+		"player1": "bf",
+		"player2": "conic",
+		"player3": null,
+		"events": [
+			[
+				73263.1578947368,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				73276.3157894736,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"1"
+					]
+				]
+			],
+			[
+				73342.1052631578,
+				[
+					[
+						"Perma-Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				93473.6842105262,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93513.1578947367,
+				[
+					[
+						"Perma-Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Illusion"
+	}
+}

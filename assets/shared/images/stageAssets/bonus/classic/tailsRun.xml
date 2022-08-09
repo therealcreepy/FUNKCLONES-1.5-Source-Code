@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tailsRun.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tailsRush0000" x="0" y="0" width="1075" height="859"/>
+	<SubTexture name="tailsRush0001" x="1075" y="0" width="1075" height="859"/>
+	<SubTexture name="tailsRush0002" x="2150" y="0" width="1075" height="859"/>
+	<SubTexture name="tailsRush0003" x="3225" y="0" width="1075" height="859"/>
+	<SubTexture name="tailsRush0004" x="4300" y="0" width="1075" height="859"/>
+	<SubTexture name="tailsRush0005" x="5375" y="0" width="1075" height="859"/>
+	<SubTexture name="tailsRush0006" x="6450" y="0" width="1075" height="859"/>
+	<SubTexture name="tailsRush0007" x="6450" y="0" width="1075" height="859"/>
+	<SubTexture name="tailsRush0008" x="0" y="859" width="1075" height="859"/>
+	<SubTexture name="tailsRush0009" x="1075" y="859" width="1075" height="859"/>
+	<SubTexture name="tailsRush0010" x="2150" y="859" width="1075" height="859"/>
+	<SubTexture name="tailsRush0011" x="3225" y="859" width="1075" height="859"/>
+	<SubTexture name="tailsRush0012" x="4300" y="859" width="1075" height="859"/>
+	<SubTexture name="tailsRush0013" x="5375" y="859" width="1075" height="859"/>
+	<SubTexture name="tailsRush0014" x="6450" y="859" width="1075" height="859"/>
+	<SubTexture name="tailsRush0015" x="0" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0016" x="1075" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0017" x="1075" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0018" x="2150" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0019" x="2150" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0020" x="3225" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0021" x="3225" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0022" x="4300" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0023" x="4300" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0024" x="5375" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0025" x="5375" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0026" x="5375" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0027" x="5375" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0028" x="5375" y="1718" width="1075" height="859"/>
+	<SubTexture name="tailsRush0029" x="5375" y="1718" width="1075" height="859"/>
+</TextureAtlas>

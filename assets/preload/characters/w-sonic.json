@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "WSonicIdle"
+		},
+		{
+			"offsets": [
+				-27,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "WSonicDown"
+		},
+		{
+			"offsets": [
+				-31,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "WSonicUp"
+		},
+		{
+			"offsets": [
+				-17,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "WSonicRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WSonicLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				106
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "WSonicLMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				104
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "WSonicRMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				104
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "WSonicUMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				104
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "WSonicDMISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/withered-sonic",
+	"position": [
+		-90,
+		50
+	],
+	"healthicon": "w-sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		1,
+		121,
+		255
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 6.4,
+	"scale": 1
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Classic", "classic", [40, 40, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "1conic",
+	"weekName": "Bonus Songs",
+	"startUnlocked": false,
+	"hiddenUntilUnlocked": true,
+
+	"difficulties": "Normal",
+	"hideStoryMode": true,
+	"hideFreeplay": false
+	
+}

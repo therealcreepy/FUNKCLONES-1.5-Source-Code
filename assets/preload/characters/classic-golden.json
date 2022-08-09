@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GSonicLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GSonic Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GSonic Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GSonic Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GSonic Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/classic_golden",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "cgs",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		142,
+		226
+	],
+	"camera_position": [
+		10,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "classic",
+		"player1": "bf-classic",
+		"player2": "classic",
+		"player3": null,
+		"events": [
+			[
+				36352.9411764706,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0.3"
+					]
+				]
+			],
+			[
+				58588.2352941176,
+				[
+					[
+						"Classic Tails Enter",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80470.588235294,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				80647.0588235293,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				80823.5294117646,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				80999.9999999999,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				81176.4705882352,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				81352.9411764705,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Dad"
+					]
+				]
+			],
+			[
+				104470.588235294,
+				[
+					[
+						"Darkness",
+						"0",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.3"
+					]
+				]
+			],
+			[
+				110117.647058823,
+				[
+					[
+						"Darkness",
+						"1",
+						""
+					],
+					[
+						"Visible GF",
+						"1 ",
+						""
+					]
+				]
+			],
+			[
+				155294.117647059,
+				[
+					[
+						"Darkness",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				158117.647058823,
+				[
+					[
+						"No-Dark",
+						"",
+						""
+					],
+					[
+						"Visible GF",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				203294.117647058,
+				[
+					[
+						"Darkness",
+						"",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "classic-golden",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Classic"
+	}
+}

@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "arcade",
+		"player1": "bf",
+		"player2": "conic",
+		"player3": null,
+		"events": [
+			[
+				12400,
+				[
+					[
+						"Perma-Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12600,
+				[
+					[
+						"Perma-Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				19300,
+				[
+					[
+						"Perma-Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				70200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				76400,
+				[
+					[
+						"Perma-Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				76600,
+				[
+					[
+						"Perma-Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Perma-Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				95800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				134000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				134200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				140400,
+				[
+					[
+						"Perma-Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				140600,
+				[
+					[
+						"Perma-Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				147200,
+				[
+					[
+						"Perma-Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Mania"
+	}
+}

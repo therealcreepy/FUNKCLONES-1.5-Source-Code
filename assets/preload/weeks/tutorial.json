@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Tutorial", "lefty", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "How to Funk",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+
+	"difficulties": "Normal",
+	"characterName": "Lefty Sonic",
+	"characterDescription": "A faulty version of Clone Sonic. Her first appearence was in Sonic's Pizzeria Simulator, before getting her current design and reputation in FNaS Maniac Mania. She runs the tutorial in shop of the game.\n \nTracks:\nTutorial"
+
+
+}

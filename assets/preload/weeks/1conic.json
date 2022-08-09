@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Nightmare", "conic", [40, 40, 255]],
+		["Mania", "conic", [40, 40, 255]],
+		["Illusion", "conic", [40, 40, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Arcade",
+	"weekBefore": "tutorial",
+	"weekName": "conic",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+
+	"difficulties": "Normal, Hard",
+	"characterName": "Clone Sonic",
+	"characterDescription": "A clone of Classic Sonic the \nHedgehog for the 2015 SHPP \nLocation. He's the main attraction at \nSonic's Hero Pizza Palace. \n \nTracks:\nNightmare\nMania\nIllusion"
+}
